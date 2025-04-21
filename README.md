@@ -4,6 +4,10 @@
 
 Greetings, I'm a beginner full-stack developer and a maker, building my perfect digital and real-life environment with technology-driven problem-solving, one step at a time. Most projects are based on school projects, some are personal, and others are uncategorized. I pursue user experiences, optimizations, and personalizations, and I like to integrate technology into problem-solving.
 
+#
+
+# ✉️ Contacts
+
 ---
 
 ### 🧰 Languages and Tools

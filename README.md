@@ -22,6 +22,6 @@ Greetings, I'm a beginner full-stack developer and a maker, building my perfect 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=thosemf&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=thosemf&show_icons=true&theme=tokyonight)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=thosemf&theme=gruvbox&border_radius=4.5) -->
 

@@ -34,6 +34,6 @@ Greetings, I'm a beginner full-stack developer and a maker, building my perfect 
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=thosemf&show_icons=true&hide=issues,contribs&theme=tokyonight" alt="GitHub Stats" valign="top"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosemf&layout=compact&theme=tokyonight" alt="Top Languages" valign="top"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thosemf&show_icons=true&hide=issues,contribs&theme=tokyonight" alt="GitHub Stats" valign="top"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosemf&layout=compact&theme=tokyonight" alt="Top Languages" valign="top"/>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=thosemf&theme=gruvbox&border_radius=4.5) -->

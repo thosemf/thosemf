@@ -16,6 +16,7 @@ Greetings, I'm a beginner full-stack developer and a maker, building my perfect 
 <img alt="PHP" width="40px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img alt="MySQL" width="30px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img alt="Python" width="35px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<br />
 
 #
 

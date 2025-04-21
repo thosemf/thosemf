@@ -7,10 +7,12 @@
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
+    .lnt, .lnt img {
+        height: 36px;
+    }
     .lnt img {
         align: left;
         vertical-align: middle;
-        height: 36px;
         margin-right: 10px;
         object-fit: contain;
     }

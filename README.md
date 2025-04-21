@@ -1,4 +1,4 @@
-<h1><span>Hi</span>👋<span style="background-image: linear-gradient(to right, #fff, #9fdefd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">, I'm ThoseMF</span></h1>
+# Hi👋, I'm ThoseMF
 
 **`Maker-Minded Developer (Developer/Maker)`**
 

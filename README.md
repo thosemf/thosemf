@@ -12,7 +12,7 @@ Greetings, I'm a beginner full-stack developer and a maker, building my perfect 
 <img alt="CSS" width="30px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="JavaScript" width="30px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="NodeJS" width="30px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="Express" width="35px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img alt="Express" width="35px" align="left" style="vertical-align: middle; margin-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img alt="React" width="35px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="PHP" width="40px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img alt="MySQL" width="30px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />

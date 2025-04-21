@@ -8,7 +8,7 @@ Greetings, I'm a beginner full-stack developer and a maker, building my perfect 
 
 ### 🧰 Languages and Tools
 
-<p style="display: flex; align-items: center; gap: 10px;">
+<p style="display: flex; align-items: center; gap: 15px;">
   <img alt="HTML" width="30px" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="30px" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img alt="JavaScript" width="30px" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />

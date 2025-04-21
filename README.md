@@ -18,3 +18,9 @@ Greetings, I'm a beginner full-stack developer and a maker, building my perfect 
 <img alt="Python" width="35px" align="left" style="vertical-align: middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 #
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=thosemf&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=thosemf&theme=gruvbox&border_radius=4.5)
+

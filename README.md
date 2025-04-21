@@ -4,10 +4,6 @@
 
 Greetings, I'm a beginner full-stack developer and a maker, building my perfect digital and real-life environment with technology-driven problem-solving, one step at a time. Most projects are based on school projects, some are personal, and others are uncategorized. I pursue user experiences, optimizations, and personalizations, and I like to integrate technology into problem-solving.
 
-#
-
-# ✉️ Contacts
-
 ---
 
 ### 🧰 Languages and Tools
@@ -27,5 +23,5 @@ Greetings, I'm a beginner full-stack developer and a maker, building my perfect 
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=thosemf&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=thosemf&theme=gruvbox&border_radius=4.5)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=thosemf&theme=gruvbox&border_radius=4.5) -->
 
